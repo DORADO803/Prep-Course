@@ -1,5 +1,7 @@
-h1 {
+h1{
     color:red;
+    text-align:center;
+
    }
    img {
     width:400px;
@@ -10,8 +12,22 @@ h1 {
     background-color:aquamarine;
     padding:50px;
     border:1px solid black;
+    text-align:center;
+    margin:auto;
+    display: block;
    }
    #spanId {
     font-size:18px;
     margin:50px;
+ 
    }
+body {
+    background-image: url("https://media.istockphoto.com/photos/abstract-blurred-inside-interior-of-luxury-restaurant-with-light-picture-id1135361747?k=20&m=1135361747&s=612x612&w=0&h=bEN2MQQP9e8Kx8iLr1zxSvjxH5m6aZbDv2AiZxy0ysc=");
+    background-size:contain;
+  
+}
+ .divClass {
+    text-align: center;
+    margin:auto;
+    display: block;
+ }
